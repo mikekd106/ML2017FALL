@@ -1,0 +1,1 @@
+python3 hw6_image_clustering.py --infer --train_data_path=$1 --test_data_path=$2 --output_path=$3

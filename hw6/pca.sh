@@ -1,0 +1,1 @@
+python3 pca_coloredfaces.py --train_data_path=$1 --target_image=$2
